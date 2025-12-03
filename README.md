@@ -15,7 +15,10 @@
   🎆 Objectif : Master MIAGE
 </p>
 <p>
-  🏅 Comme passion, j'adore le sport et la photographie
+  🚀 Motivé, travailleur et serieux, je recherche actuellement une alternance pour ma future L3 (L3 Informatique Nancy)
+</p>
+<p>
+  🏅 Commes passions, j'adore le sport et la photographie
 </p>
 
 <h3 align="left">Quelques infos..</h3>
