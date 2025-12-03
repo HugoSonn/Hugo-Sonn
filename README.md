@@ -5,8 +5,8 @@
 <br>
 <p>
   👾 • Actuellement en L2 je vois des métières telles que : 
-  <br> > S1 Algorithmie et Complexité, BPOO, Initiation à la Visualisation des Données, Maths Discrètes, Probabilité
-  <br> > S2 A venir...
+  <br> → S1 Algorithmie et Complexité, BPOO, Initiation à la Visualisation des Données, Maths Discrètes, Probabilité
+  <br> → S2 A venir...
 </p>
 <p>
   🎨 • Mes projets sont disponibles sur mon profil GitHub
