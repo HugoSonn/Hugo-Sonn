@@ -11,6 +11,7 @@
 <p>
   🎨 • Mes projets sont disponibles sur mon profil GitHub :
   <br> → Projet de Synthèse L1 : Jeu Yams en C
+  <br> → Projet en Web L1 : Site Web
   <br> → Projet SLN L1 : Création image Saturne
   <br> → Projet Gestion de Mémoire L1 : Gestion de Tâches
   <br> → Projet de Synthèse L2 : Vérificateur d'enveloppe Convexe
