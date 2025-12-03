@@ -1,5 +1,6 @@
-<h1 align="center">Salut ! Je m'appelle Hugo j'ai actuellement 19ans et je suis étudiant en L2 Informatique à l'UFR MIM de Metz(57000).</h1>
-<h3 align="center">L'informatique me passionne de plus en plus notamment les langages orientés object, et tout ce qui est réseau, base de données m'intéressent aussi !</h3>
+<h1 align="center">Salut je m'appelle Hugo !.</h1>
+<h3>J'ai actuellement 19ans et je suis étudiant en L2 Informatique à l'UFR MIM de Metz(57000).</h3>
+<h3>L'informatique me passionne de plus en plus notamment les langages orientés object, et tout ce qui est réseau, base de données m'intéressent aussi !</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
