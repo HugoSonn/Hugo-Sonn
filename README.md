@@ -1,8 +1,8 @@
-<h1 align="center">Salut je m'appelle Hugo !.</h1>
+<h1 align="center">Salut je m'appelle Hugo !</h1>
 <h3>J'ai actuellement 19ans et je suis étudiant en L2 Informatique à l'UFR MIM de Metz(57000).</h3>
 <h3>L'informatique me passionne de plus en plus notamment les langages orientés object, et tout ce qui est réseau, base de données m'intéressent aussi !</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Quelques infos..</h3>
 <p align="left">
 <a href="https://fb.com/hugo sonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hugo sonn" height="30" width="40" /></a>
 </p>
