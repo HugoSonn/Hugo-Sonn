@@ -26,7 +26,8 @@
   🏅 • Commes passions, j'adore le sport et la photographie
 </p>
 <p>
-  😶‍🌫️ • <a href="">Mon CV</a>
+  😶‍🌫️ • <a href="https://HugoSonn.github.io/Hugo Sonn.pdf
+">Mon CV</a>
 </p>
 
 <h3 align="left">Quelques infos..</h3>
