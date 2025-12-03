@@ -4,21 +4,21 @@
 <h3>L'informatique me passionne de plus en plus notamment les langages orientés object, et tout ce qui est réseau, base de données m'intéressent aussi !</h3>
 <br>
 <p>
-  👾 Actuellement en L2 je vois des métières telles que : 
-  <br> • S1 Algorithmie et Complexité, BPOO, Initiation à la Visualisation des Données, Maths Discrètes, Probabilité
-  <br> • S2 A venir...
+  👾 • Actuellement en L2 je vois des métières telles que : 
+  <br> > S1 Algorithmie et Complexité, BPOO, Initiation à la Visualisation des Données, Maths Discrètes, Probabilité
+  <br> > S2 A venir...
 </p>
 <p>
-  🎨 Mes projets sont disponibles sur mon profil GitHub
+  🎨 • Mes projets sont disponibles sur mon profil GitHub
 </p>
 <p>
-  🎆 Objectif : Master MIAGE
+  🎆 • Objectif : Master MIAGE
 </p>
 <p>
-  🚀 Motivé, travailleur et serieux, je recherche actuellement une alternance pour ma future L3 (L3 Informatique Nancy)
+  🚀 • Motivé, travailleur et serieux, je recherche actuellement une alternance pour ma future L3 (L3 Informatique Nancy)
 </p>
 <p>
-  🏅 Commes passions, j'adore le sport et la photographie
+  🏅 • Commes passions, j'adore le sport et la photographie
 </p>
 
 <h3 align="left">Quelques infos..</h3>
